@@ -20,7 +20,7 @@ fetch(libreria)
                         <p class="card-text">${bookPrice} &euro;</p>
                         </h5>
                         <a href="#" class="btn btn-primary">${bookCategory}</a>
-                        <button class="btn btn-danger" onclick="removeBook(this)">Scarta</button>
+                        <button class="btn btn-danger" onclick="removeBook">Scarta</button>
                     </div>
                 </div>
             </div>
